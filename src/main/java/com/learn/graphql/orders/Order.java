@@ -1,7 +1,7 @@
-package net.viralpatel.springbootgraphqljava.orders;
+package com.learn.graphql.orders;
 
-import net.viralpatel.springbootgraphqljava.customers.Customer;
-import net.viralpatel.springbootgraphqljava.products.Product;
+import com.learn.graphql.customers.Customer;
+import com.learn.graphql.products.Product;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package net.viralpatel.springbootgraphqljava.customers.data;
+package com.learn.graphql.customers.data;
 
 import javax.persistence.*;
 import java.util.Objects;

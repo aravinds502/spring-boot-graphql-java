@@ -1,4 +1,4 @@
-package net.viralpatel.springbootgraphqljava.orders.data;
+package com.learn.graphql.orders.data;
 
 import javax.persistence.*;
 import java.time.LocalDate;

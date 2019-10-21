@@ -1,4 +1,4 @@
-package net.viralpatel.springbootgraphqljava.products;
+package com.learn.graphql.products;
 
 public class Product {
     private Long id;

@@ -1,4 +1,4 @@
-package net.viralpatel.springbootgraphqljava.orders;
+package com.learn.graphql.orders;
 
 import java.util.Objects;
 

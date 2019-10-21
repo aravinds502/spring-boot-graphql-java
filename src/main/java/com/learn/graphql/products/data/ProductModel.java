@@ -1,4 +1,4 @@
-package net.viralpatel.springbootgraphqljava.products.data;
+package com.learn.graphql.products.data;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

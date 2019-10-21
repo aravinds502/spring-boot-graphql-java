@@ -1,4 +1,4 @@
-package net.viralpatel.springbootgraphqljava;
+package com.learn.graphql;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

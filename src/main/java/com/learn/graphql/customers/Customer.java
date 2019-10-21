@@ -1,6 +1,6 @@
-package net.viralpatel.springbootgraphqljava.customers;
+package com.learn.graphql.customers;
 
-import net.viralpatel.springbootgraphqljava.orders.Order;
+import com.learn.graphql.orders.Order;
 
 import java.util.List;
 

@@ -1,10 +1,10 @@
-package net.viralpatel.springbootgraphqljava.orders;
+package com.learn.graphql.orders;
 
 import com.coxautodev.graphql.tools.GraphQLMutationResolver;
-import net.viralpatel.springbootgraphqljava.customers.Customer;
-import net.viralpatel.springbootgraphqljava.orders.data.OrderModel;
-import net.viralpatel.springbootgraphqljava.orders.data.OrderRepository;
-import net.viralpatel.springbootgraphqljava.products.Product;
+import com.learn.graphql.customers.Customer;
+import com.learn.graphql.orders.data.OrderModel;
+import com.learn.graphql.orders.data.OrderRepository;
+import com.learn.graphql.products.Product;
 import org.springframework.stereotype.Component;
 
 @Component

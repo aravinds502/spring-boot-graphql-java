@@ -1,9 +1,9 @@
-package net.viralpatel.springbootgraphqljava;
+package com.learn.graphql;
 
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
-import net.viralpatel.springbootgraphqljava.customers.Customer;
-import net.viralpatel.springbootgraphqljava.customers.data.CustomerModel;
-import net.viralpatel.springbootgraphqljava.customers.data.CustomerRepository;
+import com.learn.graphql.customers.Customer;
+import com.learn.graphql.customers.data.CustomerModel;
+import com.learn.graphql.customers.data.CustomerRepository;
 import org.springframework.stereotype.Component;
 
 @Component
